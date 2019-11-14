@@ -1,0 +1,16 @@
+.banner {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.1)), url('../../images/background.png');
+  background-size: cover;
+  color: white;
+  padding: 200px;
+}
+
+.banner-content {
+  width: 900px;
+}
+
+.banner-content p {
+  color: #B1B2B2;
+  font-size: 20px;
+  margin-bottom: 40px;
+}

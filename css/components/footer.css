@@ -1,0 +1,33 @@
+.footer {
+  background-color: #2C2B2B;
+  text-align: center;
+  padding: 50px;
+}
+
+.footer-container ul {
+  width: 900px;
+  margin: auto;
+  list-style: none;
+  padding-left: 0px;
+  margin-top: 40px;
+}
+
+.footer-container li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.footer-container i {
+  font-size: 32px;
+  color: #54DE89;
+  text-align: center;
+}
+
+.footer-container .fas {
+  font-size: 16px;
+  color: red;
+}
+
+.footer-container p {
+  color: #496069;
+}
